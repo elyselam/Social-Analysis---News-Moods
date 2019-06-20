@@ -1,5 +1,7 @@
 
-- To my surprise, BBC actually has the most negative score while Fox News has a positive score. 
+Sentiment tends to be neutral overall, tending toward negative sentiment among all news organizations
+CNN has the least negative sentiment over the last 100 tweets
+CBS has the most negative sentiment over the last 100 tweets
 
 
 ```python
